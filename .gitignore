@@ -1,0 +1,11 @@
+# IDE
+.idea
+.vscode
+
+**/__pycache__/
+sandbox.ipynb
+speed_up.ipynb
+tg_bot_config.py
+sql_config.py
+SG_commands.txt
+local_settings.py

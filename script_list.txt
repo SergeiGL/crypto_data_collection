@@ -1,0 +1,6 @@
+p_bins binance_spot_sql_updater.py
+p_binf binance_futures_sql_updater.py
+p_okx OKX_futures_sql_updater.py
+p_dydx dydx_futures_sql_updater.py
+p_bybit bybit_futures_sql_updater.py
+p_derbit deribit_futures_sql_updater.py

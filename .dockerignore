@@ -1,0 +1,12 @@
+.idea
+__pycache__
+**/.git
+**/Dockerfile*
+**/.dockerignore
+**/.gitignore
+
+**/sandbox.ipynb
+**/speed_up.ipynb
+**/tg_bot_config.py
+**/sql_config.py
+**/SG_commands.txt

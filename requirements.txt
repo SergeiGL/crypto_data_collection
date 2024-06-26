@@ -1,0 +1,10 @@
+orjson
+PyMySQL
+requests
+websocket-client
+cryptography
+apscheduler
+sortedcontainers
+pyTelegramBotAPI
+pytz
+gspread
